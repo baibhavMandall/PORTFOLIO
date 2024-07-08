@@ -19,7 +19,15 @@ html{
     width: 150px;
 }
 
-#svg1:hover, #svg2:hover {
+#svg1:hover {
+    filter: drop-shadow(1px 1px 20px blue);
+}
+
+#svg2:hover {
+    filter: drop-shadow(1px 1px 20px blue);
+}
+
+#png:hover  {
     filter: drop-shadow(1px 1px 20px blue);
 }
 

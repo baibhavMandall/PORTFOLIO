@@ -590,100 +590,48 @@ video {
   right: 13rem;
 }
 
-.top-96 {
-  top: 24rem;
+.right-\[1030px\] {
+  right: 1030px;
+}
+
+.right-\[1580px\] {
+  right: 1580px;
+}
+
+.right-\[400px\] {
+  right: 400px;
 }
 
 .top-0 {
   top: 0px;
 }
 
-.top-40 {
-  top: 10rem;
+.top-96 {
+  top: 24rem;
 }
 
-.top-\[300px\] {
-  top: 300px;
-}
-
-.right-20 {
-  right: 5rem;
-}
-
-.right-80 {
-  right: 20rem;
-}
-
-.right-72 {
-  right: 18rem;
-}
-
-.right-64 {
-  right: 16rem;
-}
-
-.right-\[260px\] {
-  right: 260px;
-}
-
-.right-\[280px\] {
-  right: 280px;
-}
-
-.right-\[290px\] {
-  right: 290px;
-}
-
-.right-\[300px\] {
-  right: 300px;
-}
-
-.right-\[320px\] {
-  right: 320px;
-}
-
-.right-\[330px\] {
-  right: 330px;
-}
-
-.right-\[350px\] {
-  right: 350px;
-}
-
-.top-\[384px\] {
-  top: 384px;
-}
-
-.top-\[400px\] {
-  top: 400px;
-}
-
-.right-\[355px\] {
-  right: 355px;
-}
-
-.top-\[410px\] {
-  top: 410px;
+.top-\[1000px\] {
+  top: 1000px;
 }
 
 .top-\[440px\] {
   top: 440px;
 }
 
+.top-10 {
+  top: 2.5rem;
+}
+
+.right-\[600px\] {
+  right: 600px;
+}
+
 .right-\[500px\] {
   right: 500px;
 }
 
-.right-\[900px\] {
-  right: 900px;
-}
-
-.right-\[1300px\] {
-  right: 1300px;
-}
-
-.right-\[1400px\] {
-  right: 1400px;
+.right-\[1596px\] {
+  right: 1596px;
 }
 
 .right-\[1500px\] {
@@ -698,60 +646,24 @@ video {
   right: 1560px;
 }
 
-.right-\[1600px\] {
-  right: 1600px;
-}
-
-.right-\[1570px\] {
-  right: 1570px;
-}
-
-.right-\[1590px\] {
-  right: 1590px;
-}
-
-.right-\[1580px\] {
-  right: 1580px;
+.right-\[11560px\] {
+  right: 11560px;
 }
 
 .right-\[1000px\] {
   right: 1000px;
 }
 
-.right-\[1100px\] {
-  right: 1100px;
+.right-\[980px\] {
+  right: 980px;
 }
 
-.right-\[1050px\] {
-  right: 1050px;
+.right-\[350px\] {
+  right: 350px;
 }
 
-.right-\[1040px\] {
-  right: 1040px;
-}
-
-.right-\[1030px\] {
-  right: 1030px;
-}
-
-.right-\[400px\] {
-  right: 400px;
-}
-
-.right-\[480px\] {
-  right: 480px;
-}
-
-.top-\[800px\] {
-  top: 800px;
-}
-
-.top-\[900px\] {
-  top: 900px;
-}
-
-.top-\[1000px\] {
-  top: 1000px;
+.right-\[300px\] {
+  right: 300px;
 }
 
 .m-10 {
@@ -778,24 +690,12 @@ video {
   height: 100%;
 }
 
-.w-full {
-  width: 100%;
-}
-
-.w-4 {
-  width: 1rem;
-}
-
-.w-10 {
-  width: 2.5rem;
-}
-
-.w-12 {
-  width: 3rem;
-}
-
 .w-32 {
   width: 8rem;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .transform {
@@ -834,14 +734,9 @@ video {
   line-height: 1;
 }
 
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }
 
 .text-white {
