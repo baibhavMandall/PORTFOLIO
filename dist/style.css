@@ -554,8 +554,32 @@ video {
   --tw-contain-style:  ;
 }
 
+.relative {
+  position: relative;
+}
+
+.left-20 {
+  left: 5rem;
+}
+
+.right-10 {
+  right: 2.5rem;
+}
+
+.top-10 {
+  top: 2.5rem;
+}
+
+.top-20 {
+  top: 5rem;
+}
+
 .m-10 {
   margin: 2.5rem;
+}
+
+.mt-32 {
+  margin-top: 8rem;
 }
 
 .flex {
