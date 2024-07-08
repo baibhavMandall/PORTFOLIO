@@ -14,3 +14,7 @@
 #svg2   {
     width: 150px;
 }
+
+#svg1:hover, #svg2:hover {
+    filter: drop-shadow(1px 1px 20px blue);
+}
