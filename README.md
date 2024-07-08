@@ -1,4 +1,4 @@
-## Technoloies used -
+## TECHNOLOGIES USED -
 - HTML
 - TAILWIND CSS
 - CSS
